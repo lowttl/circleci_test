@@ -1,0 +1,2 @@
+genanki==0.6.3
+requests==2.20.1
