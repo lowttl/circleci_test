@@ -1,0 +1,10 @@
+{{Note}}
+<hr id=answer>
+</br>
+</br>
+<div class=source>
+<a href="{{Book URL}}"><div>{{Cover}}<br></div></a>
+<a href="{{Book URL}}">{{Title}} </br></a>
+{{Author}}</br>
+<a href="{{Chapter URL}}">{{Chapter}}</br></a>
+</div>

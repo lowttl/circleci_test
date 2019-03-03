@@ -1,0 +1,14 @@
+.card {
+ font-family: arial;
+ font-size: 20px;
+ text-align: center;
+ color: black;
+ background-color: white;
+}
+.source {
+ font-family: arial;
+ font-size: 12px;
+ text-align: left;
+ color: black;
+ background-color: white;
+}
